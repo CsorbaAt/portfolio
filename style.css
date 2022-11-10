@@ -73,7 +73,7 @@ a {
     margin:0 0.5rem;
 }
 
-@media only screen and (min-width:420px) {
+@media only screen and (min-width:768px) {
     
     .text {
         width: 50%;
@@ -148,7 +148,7 @@ section img {
     font-weight: 700;
 } 
 
-@media only screen and (min-width:420px) {
+@media only screen and (min-width:768px) {
 
     .locations>div {
         float:left;
@@ -197,7 +197,7 @@ section img {
     font-weight: 500;
 }
 
-@media only screen and (min-width:420px) {
+@media only screen and (min-width:768px) {
 
     .program>div {
         width: 18%;
@@ -244,7 +244,7 @@ section img {
     margin: 1.5rem auto 0 auto;
 }
 
-@media only screen and (min-width:420px) {
+@media only screen and (min-width:768px) {
 
     .faq {
         padding-left: 5rem;
@@ -290,7 +290,7 @@ section img {
     line-height: 1.5rem;
 }
 
-@media only screen and (min-width:420px) {
+@media only screen and (min-width:768px) {
 
     .contact p {
         margin: 2rem 0;
@@ -312,7 +312,7 @@ footer p{
     line-height: 1.25rem;
 }
 
-@media only screen and (min-width:420px) {
+@media only screen and (min-width:768px) {
 
     footer p{
         padding: 2.25rem 0;
